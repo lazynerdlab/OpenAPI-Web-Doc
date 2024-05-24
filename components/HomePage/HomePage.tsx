@@ -56,10 +56,7 @@ const HomePage = () => {
         <div className="flex flex-col gap-4">
           <h2 className="text-2xl font-semibold">Start here</h2>
           <p className="text-gray-500">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
-            laoreet convallis quam, fermentum molestie lectus laoreet id. Sed
-            vel posuere nisl, sit amet commodo turpis. Etiam orci magna,
-            faucibus non enim non, viverra tincidunt quam.
+             Explore Payaza's range of services that make it possible for you to send and receive money in minutes. 
           </p>
         </div>
 
