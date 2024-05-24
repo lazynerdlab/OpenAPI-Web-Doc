@@ -46,8 +46,7 @@ const HomePage = () => {
         <div className="flex flex-col gap-4">
           <h2 className="text-2xl font-semibold">Pursfi OpenAPI Business</h2>
           <p className="text-gray-500">
-            The is the Open API documentation. It contains the endpoints needed
-            to the implement the Open API dashboard.
+          PursFinance APIs are created to facilitate payments, collections, and other operations as required by merchants and developers. Our documentation guide is easy to use to facilitate quick integration of our APIs into your various platforms. 
           </p>
         </div>
 
