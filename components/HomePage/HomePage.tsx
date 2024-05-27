@@ -12,7 +12,7 @@ const HomePage = () => {
       href: "/category/dev-guide",
       icon: <MdHome className="w-7 h-7 text-black" />,
       title: "Dev Guide",
-      description: "Fusce sit amet viverra ligula. Cras ut quam libero.",
+      description: "Go through the Dev Guide section to get your authentication keys and learn how to store your webhooks and callback URLs.",
     },
     {
       href: "/category/collections",
