@@ -18,25 +18,25 @@ const HomePage = () => {
       href: "/category/collections",
       icon: <BiSolidCarousel className="w-7 h-7 text-black" />,
       title: "Collections",
-      description: "Fusce sit amet viverra ligula. Cras ut quam libero.",
+      description: "View our Pursfinance Collections APIs for your integration purposes.",
     },
     {
       href: "/category/customers",
       icon: <FaBookReader className="w-7 h-7 text-black" />,
       title: "Customers",
-      description: "Fusce sit amet viverra ligula. Cras ut quam libero.",
+      description: "View our Pursfinance Customer APIs for your integration purposes.",
     },
     {
       href: "/category/loans",
       icon: <HiMiniSquaresPlus className="w-7 h-7 text-black" />,
       title: "Loans",
-      description: "Fusce sit amet viverra ligula. Cras ut quam libero.",
+      description: "View our Pursfinance Loan Accounts APIs for your integration purposes.",
     },
     {
       href: "/category/payout",
       icon: <BiSolidCarousel className="w-7 h-7 text-black" />,
       title: "Payout",
-      description: "Fusce sit amet viverra ligula. Cras ut quam libero.",
+      description: "View our Transfer APIs for your integration purposes.",
     },
   ];
 
