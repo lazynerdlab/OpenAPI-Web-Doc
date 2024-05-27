@@ -55,11 +55,11 @@ const PayoutCategory = () => {
         <span className="flex flex-col gap-4">
           <h2 className="text-3xl font-semibold">Payout</h2>
           <p>
-            Fusce sit amet viverra ligula. Cras ut quam libero. Vivamus vel
-            consectetur neque, et porta enim. Ut porta pulvinar massa sed
-            rutrum. Nullam cursus felis in dui pulvinar, ac malesuada purus
-            dapibus. Aliquam magna justo, egestas sed ullamcorper eget, iaculis
-            vel sem. Maecenas auctor turpis ac dui efficitur tristique.
+           Transfers are transactions made from your Pursfinance account to beneficiaries.
+            Merchants can instantly transfer funds from their available balance. 
+            For every transfer, you need to specify the amount and the beneficiary’s details.
+            You become eligible to make transfers after you have been verified. 
+            (you sign up, finish account activation and Compliance)
           </p>
         </span>
 
