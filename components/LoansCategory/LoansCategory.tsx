@@ -54,11 +54,9 @@ const LoansCategory = () => {
         <span className="flex flex-col gap-4">
           <h2 className="text-3xl font-semibold">Loans</h2>
           <p>
-            Fusce sit amet viverra ligula. Cras ut quam libero. Vivamus vel
-            consectetur neque, et porta enim. Ut porta pulvinar massa sed
-            rutrum. Nullam cursus felis in dui pulvinar, ac malesuada purus
-            dapibus. Aliquam magna justo, egestas sed ullamcorper eget, iaculis
-            vel sem. Maecenas auctor turpis ac dui efficitur tristique.
+          The Loan Account Collection and Disbursement API facilitates the efficient management of loan accounts, 
+          including the retrieval of loan information, creation of new loans, disbursement of funds,
+           and collection of repayments. This documentation provides comprehensive details on how to use the API to manage loan-related activities within your application.
           </p>
         </span>
 
