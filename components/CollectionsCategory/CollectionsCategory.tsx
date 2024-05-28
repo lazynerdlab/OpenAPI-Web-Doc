@@ -41,9 +41,11 @@ const CollectionsCategory = () => {
         <span className="flex flex-col gap-4">
           <h2 className="text-3xl font-semibold">Collections</h2>
           <p>
-          The Collection API allows you to efficiently manage customer and account data within your application.
-           This documentation provides detailed information on how to retrieve sub-accounts, create one-time accounts,
-            get all one-time accounts, and retrieve account details.
+            Fusce sit amet viverra ligula. Cras ut quam libero. Vivamus vel
+            consectetur neque, et porta enim. Ut porta pulvinar massa sed
+            rutrum. Nullam cursus felis in dui pulvinar, ac malesuada purus
+            dapibus. Aliquam magna justo, egestas sed ullamcorper eget, iaculis
+            vel sem. Maecenas auctor turpis ac dui efficitur tristique.
           </p>
         </span>
 
