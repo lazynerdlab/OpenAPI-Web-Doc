@@ -65,11 +65,9 @@ const CustomersCategory = () => {
         <span className="flex flex-col gap-4">
           <h2 className="text-3xl font-semibold">Customers</h2>
           <p>
-            Fusce sit amet viverra ligula. Cras ut quam libero. Vivamus vel
-            consectetur neque, et porta enim. Ut porta pulvinar massa sed
-            rutrum. Nullam cursus felis in dui pulvinar, ac malesuada purus
-            dapibus. Aliquam magna justo, egestas sed ullamcorper eget, iaculis
-            vel sem. Maecenas auctor turpis ac dui efficitur tristique.
+          The Customer Collection API offers comprehensive tools for managing customer data within your application.
+           This documentation provides detailed guidance on creating, retrieving, updating, and deleting customer records,
+            ensuring efficient data handling and integration.
           </p>
         </span>
 
